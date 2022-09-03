@@ -23,15 +23,18 @@
 <p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-2.png" width="50%" height="50%"></p>
 
 3. Class와 interface 생성하기
-![1-3](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-3.png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-3.png" width="50%" height="50%"></p>
+
 
 4. ICRUD(interface) 구현하기
-![1-4](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-4.png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-4.png" width="50%" height="50%"></p>
 
 5. Word(class) 구현하기
-![1-5(1)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(1).png)
-![1-5(2)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(2).png)
-![1-5(3)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(3).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(1).png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(2).png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-5(3).png" width="50%" height="50%"></p>
+
+
 
 6. WordCRUD(class) 구현하기
 ![1-6(1)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(1).png)
