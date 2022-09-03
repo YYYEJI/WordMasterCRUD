@@ -51,7 +51,9 @@
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-8.png" width="50%" height="50%">
 
 
+
 ↓↓↓ 현재까지 구현된 함수의 실행화면 ↓↓↓
+
 4번 실행화면 - 단어 추가
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(1).png" width="50%" height="50%">
 
