@@ -2,14 +2,14 @@
 ### Project - 1
 
 *** 영단어 마스터 ***
-1. 모든 단어 보기\n
-2. 수준별 단어 보기\n
-3. 단어 검색\n
-4. 단어 추가\n
-5. 단어 수정\n
-6. 단어 삭제\n
-7. 파일 저장\n
-0. 나가기\n   
+1. 모든 단어 보기
+2. 수준별 단어 보기
+3. 단어 검색
+4. 단어 추가
+5. 단어 수정
+6. 단어 삭제
+7. 파일 저장
+0. 나가기
 
 
 
@@ -55,10 +55,13 @@
 ↓↓↓ 현재까지 구현된 함수의 실행화면 ↓↓↓
 
 4번 실행화면 - 단어 추가
+
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(1).png" width="50%" height="50%">
 
 1번 실행화면 - 저장된 단어 출력
+
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(2).png" width="50%" height="50%">
 
 0번 실행화면 - 프로그래 종료
+
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png" width="50%" height="50%">
