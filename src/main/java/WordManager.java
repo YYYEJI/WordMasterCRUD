@@ -31,10 +31,10 @@ public class WordManager {
 
             if(menu == 0) break;
             if(menu == 4) {
-                wordCRUD.addWord();   // create
+                wordCRUD.addWord();    // create
             }
             else if(menu == 1){
-                // list
+                wordCRUD.listAll();    // list
             }
         }
     }
