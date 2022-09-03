@@ -10,9 +10,7 @@
 6. 단어 삭제
 7. 파일 저장
 0. 나가기
-
-
-
+<br>
 
 
 ## Week 1 - Sat Sep 3
@@ -50,7 +48,7 @@
 8. Main 함수 구현하기 
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-8.png" width="50%" height="50%">
 
-
+<br><br>
 
 ### ↓↓↓ 현재까지 구현된 함수의 실행화면 ↓↓↓
 
