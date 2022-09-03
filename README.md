@@ -60,4 +60,3 @@
 
 0번 실행화면 - 프로그래 종료
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png" width="50%" height="50%">
-
