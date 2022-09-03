@@ -12,6 +12,7 @@
 0. 나가기\n
 
 
+
 ## Week 1 - Sat Sep 3
 1. Maven을 사용해서 Java Project 생성하기
 ![1-1](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-1.png)
