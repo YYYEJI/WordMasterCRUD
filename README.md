@@ -20,7 +20,7 @@
 <p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-1.png" width="50%" height="50%"></p>
 
 2. 생성한 project와 현재 github URL과 연결하기
-<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-2.png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-2.png" width="30%" height="30%"></p>
 
 3. Class와 interface 생성하기
 <p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-3.png" width="50%" height="50%"></p>
@@ -37,22 +37,27 @@
 
 
 6. WordCRUD(class) 구현하기
-![1-6(1)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(1).png)
-![1-6(2)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(2).png)
-![1-6(3)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(3).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(1).png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(2).png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-6(3).png" width="50%" height="50%"></p>
+
 
 7. WordManager(class) 구현하기
-![1-7(1)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-7(1).png)
-![1-7(2)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-7(2).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-7(1).png" width="50%" height="50%"></p>
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-7(2).png" width="50%" height="50%"></p>
+
 
 8. Main 함수 구현하기 
-![1-8](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-8.png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-8.png" width="50%" height="50%"></p>
 
 
 ↓↓↓ 현재까지 구현된 함수의 실행화면 ↓↓↓
 4번 실행화면
-![1-9(1)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(1).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(1).png" width="50%" height="50%"></p>
+
 1번 실행화면
-![1-9(2)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(2).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(2).png" width="50%" height="50%"></p>
+
 0번 실행화면
-![1-9(3)](https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png)
+<p align="center"><img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png" width="50%" height="50%"></p>
+
