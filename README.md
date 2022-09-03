@@ -54,14 +54,14 @@
 
 ↓↓↓ 현재까지 구현된 함수의 실행화면 ↓↓↓
 
-4번 실행화면 - 단어 추가
+- 4번 실행화면 - 단어 추가
 
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(1).png" width="50%" height="50%">
 
-1번 실행화면 - 저장된 단어 출력
+- 1번 실행화면 - 저장된 단어 출력
 
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(2).png" width="50%" height="50%">
 
-0번 실행화면 - 프로그래 종료
+- 0번 실행화면 - 프로그래 종료
 
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png" width="50%" height="50%">
