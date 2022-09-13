@@ -13,7 +13,7 @@
 <br>
 
 
-## Week 1 - Sat Sep 3
+## Week 1 - 진행보고서 
 1. Maven을 사용해서 Java Project 생성하기
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-1.png" width="50%" height="50%">
 
@@ -63,3 +63,32 @@
 - 0번 실행화면 - 프로그래 종료
 
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-9(3).png" width="50%" height="50%">
+
+<br>
+
+## Week 3 - 최종보고서
+
+
+1. 2번 실행화면 - 단어 보기
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-1.png?raw=true" width="50%" height="50%">
+
+2. 3번 실행화면 - 단어 검색
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-2.png?raw=true" width="50%" height="50%">
+
+3. 5번 실행화면 - 단어 수정
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-3.png?raw=true" width="50%" height="50%">
+
+4. 6번 실행화면 - 단어 삭제 
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-4.png?raw=true" width="50%" height="50%">
+
+5. 7번 실행화면 - 파일저장 
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-5(1).png?raw=true" width="50%" height="50%">
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-5(2).png?raw=true" width="50%" height="50%">
+
+6. 1번 실행화면 - 모든 단어보기
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-6.png?raw=true" width="50%" height="50%">
+
+
+
+
+
