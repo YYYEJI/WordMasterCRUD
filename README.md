@@ -13,7 +13,7 @@
 <br>
 
 
-## Week 1 - Sat Sep 3
+## Week 1 - 
 1. Maven을 사용해서 Java Project 생성하기
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-1.png" width="50%" height="50%">
 
@@ -66,7 +66,7 @@
 
 <br>
 
-## Week 3 - Tue Sep 13 
+## Week 3 - 최종보고서
 
 
 1. 2번 실행화면 - 단어 보기
