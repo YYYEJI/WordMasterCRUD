@@ -26,4 +26,5 @@
 1|unfortunate|불운한
 1|branch|나뭇가지
 1|trim|다듬다
-1| apple|사과 
+1|apple|사과
+1|urge|충고하다, 욕구
