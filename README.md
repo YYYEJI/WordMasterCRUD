@@ -70,5 +70,25 @@
 
 
 1. 2번 실행화면 - 단어 보기
-<img src = "" width="50%" height="50%">
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-1.png?raw=true" width="50%" height="50%">
+
+2. 3번 실행화면 - 단어 검색
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-2.png?raw=true" width="50%" height="50%">
+
+3. 5번 실행화면 - 단어 수정
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-3.png?raw=true" width="50%" height="50%">
+
+4. 6번 실행화면 - 단어 삭제 
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-4.png?raw=true" width="50%" height="50%">
+
+5. 7번 실행화면 - 파일저장 
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-5(1).png?raw=true" width="50%" height="50%">
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-5(2).png?raw=true" width="50%" height="50%">
+
+6. 1번 실행화면 - 모든 단어보기
+<img src = "https://github.com/YYYEJI/WordMasterCRUD/blob/master/Screenshots/2-6.png?raw=true" width="50%" height="50%">
+
+
+
+
 
