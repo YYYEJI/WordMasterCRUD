@@ -13,7 +13,7 @@
 <br>
 
 
-## Week 1 - 
+## Week 1 - 진행보고서 
 1. Maven을 사용해서 Java Project 생성하기
 <img src = "https://raw.githubusercontent.com/YYYEJI/WordMasterCRUD/209ca40c080e6f032df72061bf3e1b65924282a3/Screenshots/1-1.png" width="50%" height="50%">
 
